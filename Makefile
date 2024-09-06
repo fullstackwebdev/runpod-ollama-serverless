@@ -1,4 +1,4 @@
-IMAGE_NAME=ashokrajar/runpod-ollama-serverless
+IMAGE_NAME=ghcr.io/fullstackwebdev/runpod-ollama-serverless
 VERSION=latest
 
 all: build push
